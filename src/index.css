@@ -23,3 +23,7 @@ body {
 a {
   color: inherit;
 } 
+
+.App {
+  background: #141414;
+}
